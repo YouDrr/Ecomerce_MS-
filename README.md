@@ -7,39 +7,35 @@ Travail à faire
 
 
 ## Customer MS:
-![customer]()
+![customer](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/customer.png)
 \
 \
 ## Products MS:
-![Products ]()
-\
-\
-## Products MS:
-![Products ]()
+![Products ](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/products.png)
 \
 \
 ## Bills MS:
-![Bills ]()
-![Bills ]()
+![Bills ](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/bill1.png)
+![Bills ](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/bill2.png)
 /
 - Customer:
-![Customer]()
+![Customer](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/bcus.png)
 /
 - Product:
-![Product]()
+![Product](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/bprod.png)
 \
 \
 ## Gateway MS:
-![Gateway]()
+![Gateway](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/gateway.png)
 \
 \
 ## Eureka Discovery MS:
-![Eureka Discovery]()
-![Eureka ports]()
+![Eureka Discovery](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/eurika.png)
+![Eureka ports](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/euriports.png)
 \
 \
 ## Angular :
-![Gateway]()
+![Gateway](https://github.com/YouDrr/Ecomerce_MS-/blob/main/ScreenShots/Angular.png)
 \
 \
 
